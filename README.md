@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guilherme-preda
 - 👀 I’m interested in Java Test
 - 🌱 I’m currently learning Java language 
-- 💞️ I’m looking to collaborate on Everis services 
+- 💞️ I’m looking to collaborate on Everis services, i´m actully Q&A in everis NTT DATA.
 - 📫 How to reach me my Ig: https://www.instagram.com/guilhermealmeida_._/ or my gmail :guilhermealmeida970@gmail.com
 
 <!---
